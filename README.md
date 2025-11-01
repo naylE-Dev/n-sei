@@ -1,2 +1,2 @@
 # n-sei k
-é só um teste
+é só um teste.
